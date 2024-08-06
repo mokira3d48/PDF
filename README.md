@@ -1,7 +1,8 @@
-# PDF Editor
-![](https://img.shields.io/badge/Python-3.10.12-blue)
+# PDF Leetcode
+![](https://img.shields.io/badge/Python-ver3.x-blue)
+![](https://img.shields.io/badge/Unittest-PASSED-success)
 ![](https://img.shields.io/badge/LICENSE-MIT-%2300557f)
-![](https://img.shields.io/badge/lastest-2024--07--13-success)
+![](https://img.shields.io/badge/lastest-2024--07--13-orange)
 ![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
 
 <!-- ![](https://img.shields.io/badge/Django-5.0-%2344B78B) -->
@@ -9,7 +10,7 @@
 <!-- ![](https://img.shields.io/badge/Swagger-OpenAPI%202.0-%23aaaa00) -->
 
 
-## Usage
+## Dev usage
 1. `sudo apt install cmake python3-venv` Install *Cmake* and *Virtual env*;
 2. `make venv` create a virtual env into directory named `env`;
 3. `ssource env/bin/activate` activate the virtual environment named `env`;
